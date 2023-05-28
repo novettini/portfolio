@@ -109,14 +109,14 @@ footer {
 }
 
 @media (max-width: 1000px) {
-   body {
+   body:hover {
       background: radial-gradient(closest-corner circle at 85% 15%,
             #ccc,
             #ccc 20%,
             #445 21%,
             #223 100%);
    }
-   body:hover {
+   body {
       background: radial-gradient(closest-corner circle at 15% 15%,
       #ffcf33,
       #ffcf33 20%,
