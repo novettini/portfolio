@@ -6,6 +6,8 @@ body {
    #bbeeff 100%);
 }
 
+h1,h2,p{
+   color:white;}
 
 .row {
    justify-content: space-around !important;
